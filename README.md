@@ -11,7 +11,7 @@ This project is driven using [Maven][mvn]..
 fdsfff
 ### Run locallyf
 
-You can run the service locally using the following from the command:
+You can run the service locally usin;g the following from the command:
 
 ```fkj
 $ ./mvnw spring-boot:run
