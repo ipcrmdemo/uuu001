@@ -25,7 +25,7 @@ tests using Maven:ff
 
 ```
 $ ./mvnw test
-```
+```f
 ...
 ---
 
