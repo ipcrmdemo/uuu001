@@ -12,7 +12,7 @@ fdsfffff
 ### Run locallyff
 f
 You can run the service locally usin;g the ffolfflowing from the fcommand:
-ff
+fffs
 ```fkjfff
 $ ./mvnw spring-boot:run
 ```f
