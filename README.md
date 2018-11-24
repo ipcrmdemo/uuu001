@@ -16,7 +16,7 @@ You can run the service locally usin;g the ffollowing from the fcommand:
 ```fkjfff
 $ ./mvnw spring-boot:run
 ```f
-ff
+fff
 ### Run tests
 ff
 This service comes with some rudimentary tests as a good starting
