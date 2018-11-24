@@ -12,7 +12,7 @@ fdsffff
 ### Run locallyff
 f
 You can run the service locally usin;g the ffollowing from the fcommand:
-
+f
 ```fkjfff
 $ ./mvnw spring-boot:run
 ```f
