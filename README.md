@@ -14,7 +14,7 @@ f
 You can run the service locally usin;g the ffolfflowing from the fcommand:
 fffs
 ```fkjfff
-$ ./mvnw spring-boot:run
+$ ./mvnw spring-boot:runfdfs
 ```ffdsfsf
 fff
 ### Run tests
