@@ -8,7 +8,7 @@ Based on seed project `atomist-seeds:spring-rest`
 This project is driven using [Maven][mvn]..
 ..
 [mvn]: https://maven.apache.org/ (Maven)kf
-fdsffff
+fdsfffff
 ### Run locallyff
 f
 You can run the service locally usin;g the ffollowing from the fcommand:
