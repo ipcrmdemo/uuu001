@@ -24,7 +24,7 @@ point for writing your own.  Use the following command to execute the
 tests using Maven:fff
 
 ```
-$ ./mvnw testf
+$ ./mvnw testfkjko
 ```ff
 ...
 ---
