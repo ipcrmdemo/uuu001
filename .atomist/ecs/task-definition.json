@@ -15,14 +15,6 @@
          ],
          "essential": true,
          "image": "httpd:2.4",
-         "logConfiguration": { 
-            "logDriver": "awslogs",
-            "options": { 
-               "awslogs-group" : "/ecs/fargate-task-definition",
-               "awslogs-region": "us-east-1",
-               "awslogs-stream-prefix": "ecs"
-            }
-         },
          "name": "sample-fargate-app",
          "portMappings": [ 
             { 
