@@ -14,7 +14,7 @@ class Uuu001Controller {
 
     @GetMapping("/")
     public String root() {
-        return "Hello, world! Welcome to Atomist!.";
+        return "Hello, world! Welcome to Atomist, NOW!.";
     }
 
 }
