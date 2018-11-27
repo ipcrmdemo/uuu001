@@ -1,6 +1,6 @@
 {
   "serviceName": "ufort",
-  "desiredCount": 2,
+  "desiredCount": 1,
   "launchType": "EC2",
   "cluster": "default",
   "networkConfiguration": {
