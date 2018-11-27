@@ -6,6 +6,8 @@
   "memory": "0.5GB",
   "containerDefinitions": [ 
       {
+      "memory": 256,
+      "memoryReservation": 128,
       "portMappings": [
         {
           "hostPort": 8080,
