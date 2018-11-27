@@ -1,6 +1,6 @@
 {
   "serviceName": "ufort",
-  "desiredCount": 5,
+  "desiredCount": 2,
   "launchType": "EC2",
   "networkConfiguration": {
     "awsvpcConfiguration": {

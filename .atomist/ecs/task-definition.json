@@ -2,8 +2,8 @@
   "family": "uuu001",
   "requiresCompatibilities":["EC2"],
   "networkMode": "awsvpc",
-  "cpu": "1024",
-  "memory": "6GB",
+  "cpu": "256",
+  "memory": "0.5GB",
   "containerDefinitions": [ 
       { 
          "command": [
