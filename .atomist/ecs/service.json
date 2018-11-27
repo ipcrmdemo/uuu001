@@ -2,6 +2,7 @@
   "serviceName": "ufort",
   "desiredCount": 2,
   "launchType": "EC2",
+  "cluster": "default",
   "networkConfiguration": {
     "awsvpcConfiguration": {
       "subnets": ["subnet-02ddf34bfe7f6c19a", "subnet-0c5bfb43a631bee45"],
