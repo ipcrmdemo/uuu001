@@ -8,7 +8,7 @@ Based on seed project `atomist-seeds:spring-rest`..
 This project is driven using [Maven][mvn]..
 ..f
 [mvn]: https://maven.apache.org/ (Maven)kff
-fdsfffff
+fdsffffff
 ### Run locallyfff
 fdfsf
 You can run the service locally usin;g the ffolfflowing from the fcommand:
