@@ -1,5 +1,5 @@
 # uuu001...s
-my new project..............//
+my new project..............//.
 .....
 Based on seed project `atomist-seeds:spring-rest`..
 ;
