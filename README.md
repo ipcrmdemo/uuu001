@@ -19,7 +19,7 @@ $ ./mvnw spring-boot:runfdfs
 fffsdf
 ### Run tests
 ff
-This service comes with some rudimentary tests as a good starting
+This service comes with sofme rudimentary tests as a good starting
 point for writing your own.  Use the following command to execute the
 tests using Maven:fff
 
